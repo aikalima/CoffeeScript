@@ -69,7 +69,7 @@ By the end of this lesson you should be able to:
 	# Rails does it automatically!
 
 	$ compiles name.coffee to name.js everytime name.coffee is changed
-	$ coffee -cw name.coffee
+	$ coffee -cwb name.coffee
 
 
 ## Functions, List Comprehensions, Conditionals (30 min):
